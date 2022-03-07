@@ -13,5 +13,270 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\04. 리스트%28연결리스트기반%29">
+      <UniqueIdentifier>{c9ca3747-6d9e-4ae4-8316-9a921ede7046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04. 리스트%28연결리스트기반%29\04_1. 리스트%28연결리스트기반%29">
+      <UniqueIdentifier>{1bed4161-4073-43a4-bb0b-1c02afe4a552}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04. 리스트%28연결리스트기반%29\04_2. 리스트%28연결리스트기반%29_Point_LinkedList">
+      <UniqueIdentifier>{14166a2f-9400-4cbd-ad64-a8d4d4ba3232}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04. 리스트%28연결리스트기반%29\04_3. 리스트%28연결리스트기반%29_LinkedList">
+      <UniqueIdentifier>{69b70835-e0ed-458d-bc5b-d559d035c9e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03. 리스트%28배열기반%29">
+      <UniqueIdentifier>{808c7ac4-ce67-4a42-a503-22bd57692bb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01. 순환">
+      <UniqueIdentifier>{49f86201-1ac4-4010-a11f-dca7f027750f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02. 배열, 구조체, 포인터">
+      <UniqueIdentifier>{765cb695-af5f-4284-ad9b-359fd7401b69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05. 연결리스트%28원형, 이중%29">
+      <UniqueIdentifier>{39e2835b-ef06-48ab-a499-f9d3d2171441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05. 연결리스트%28원형, 이중%29\05_1. 연결리스트%28원형, 이중%29_LinkedList">
+      <UniqueIdentifier>{c789688e-8e16-4e72-ad88-a54c8a15fea2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05. 연결리스트%28원형, 이중%29\05_2. 연결리스트%28원형, 이중%29_DLinkedList">
+      <UniqueIdentifier>{64cd2700-6fb7-4c92-aeaa-7184ab45502a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05. 연결리스트%28원형, 이중%29\05_3. 연결리스트%28원형, 이중%29_PolyLinkedList">
+      <UniqueIdentifier>{d417889c-a4b1-4946-955c-6f4243194b53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05. 연결리스트%28원형, 이중%29\05_4. 연결리스트%28원형, 이중%29_ADTLinkedList">
+      <UniqueIdentifier>{636ee971-0bab-4991-a922-d462ec5207ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 스택">
+      <UniqueIdentifier>{5fc8728e-9e31-4160-ba2e-1d07ff3927af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 스택\06_1. 스택_ArrayStack">
+      <UniqueIdentifier>{253e7cb3-e33a-4891-8821-93097044ef73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 스택\06_2. 스택_StudArrayStack_전역변수">
+      <UniqueIdentifier>{3f8d3e3e-5372-4619-bfd5-76e89cb45f38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 스택\06_3. 스택_StudArrayStack_구조체">
+      <UniqueIdentifier>{3adc4aeb-4eaa-44ac-8884-739672ce30a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 스택\06_4. 스택_LinkedListStack">
+      <UniqueIdentifier>{7395efef-de9f-4852-930a-54912d5ca44f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 스택\06_5. 스택_BracketArrayStack">
+      <UniqueIdentifier>{9af58240-b1a7-4719-9b44-9e8c54b4b9f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 스택\06_6. 스택_BNArrayStack">
+      <UniqueIdentifier>{987764ff-bcfc-491c-aa8f-bb71d6d754d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 스택\06_7. 스택_MazeArrayStack">
+      <UniqueIdentifier>{bdeb29f0-63d3-436d-b19d-286bbdeafcb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\07. 큐">
+      <UniqueIdentifier>{88f49c97-d706-426c-917e-98b3d9f38971}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\07. 큐\07_1. 큐_CircularQueue">
+      <UniqueIdentifier>{985c3a06-e522-41bb-948c-1015d79f18e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\07. 큐\07_2. 큐_ListQueue">
+      <UniqueIdentifier>{53a3f38b-b06b-486e-ad15-a523c80d5ef5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\07. 큐\07_3. 큐_BankQueue">
+      <UniqueIdentifier>{c2d36a1d-da38-4147-a31e-44a4af7bf8ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\08. 트리, 트리순회">
+      <UniqueIdentifier>{209a4102-d9be-46ce-b5e8-bff0d3c856bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\08. 트리, 트리순회\08_1. 트리, 트리순회">
+      <UniqueIdentifier>{49064e1d-4af5-41ce-8026-b4a983aa6cd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\08. 트리, 트리순회\08_2. 트리, 트리순회_이진트리탐색%28전위순회%29">
+      <UniqueIdentifier>{825bfc7f-d5b3-4005-9ff8-739e02151c5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\08. 트리, 트리순회\08_3. 트리, 트리순회_이진트리탐색%28중위순회%29">
+      <UniqueIdentifier>{e1e2e08b-f975-483f-ae9d-c3482346647b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="04_1. 리스트(연결리스트기반).cpp">
+      <Filter>소스 파일\04. 리스트%28연결리스트기반%29\04_1. 리스트%28연결리스트기반%29</Filter>
+    </ClCompile>
+    <ClCompile Include="04_2. 리스트(연결리스트기반)_Point_LinkedList.cpp">
+      <Filter>소스 파일\04. 리스트%28연결리스트기반%29\04_2. 리스트%28연결리스트기반%29_Point_LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="04_2. 리스트(연결리스트기반)_Point_LinkedList_main.cpp">
+      <Filter>소스 파일\04. 리스트%28연결리스트기반%29\04_2. 리스트%28연결리스트기반%29_Point_LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="04_3. 리스트(연결리스트기반)_LinkedList.cpp">
+      <Filter>소스 파일\04. 리스트%28연결리스트기반%29\04_3. 리스트%28연결리스트기반%29_LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="04_3. 리스트(연결리스트기반)_LinkedList_main.cpp">
+      <Filter>소스 파일\04. 리스트%28연결리스트기반%29\04_3. 리스트%28연결리스트기반%29_LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="01. 순환.cpp">
+      <Filter>소스 파일\01. 순환</Filter>
+    </ClCompile>
+    <ClCompile Include="02. 배열, 구조체, 포인터.cpp">
+      <Filter>소스 파일\02. 배열, 구조체, 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="03. 리스트(배열기반).cpp">
+      <Filter>소스 파일\03. 리스트%28배열기반%29</Filter>
+    </ClCompile>
+    <ClCompile Include="05_1. 연결리스트(원형, 이중)_LinkedList_main.cpp">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_1. 연결리스트%28원형, 이중%29_LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="05_1. 연결리스트(원형, 이중)_LinkedList.cpp">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_1. 연결리스트%28원형, 이중%29_LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="05_2. 연결리스트(원형, 이중)_DLinkedList.cpp">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_2. 연결리스트%28원형, 이중%29_DLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="05_2. 연결리스트(원형, 이중)_DLinkedList_main.cpp">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_2. 연결리스트%28원형, 이중%29_DLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="05_3. 연결리스트(원형, 이중)_PolyLinkedList.cpp">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_3. 연결리스트%28원형, 이중%29_PolyLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="05_3. 연결리스트(원형, 이중)_PolyLinkedList_main.cpp">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_3. 연결리스트%28원형, 이중%29_PolyLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="05_4. 연결리스트(원형, 이중)_ADTLinkedList.cpp">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_4. 연결리스트%28원형, 이중%29_ADTLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="05_4. 연결리스트(원형, 이중)_ADTLinkedList_main.cpp">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_4. 연결리스트%28원형, 이중%29_ADTLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="06_1. 스택_ArrayStack.cpp">
+      <Filter>소스 파일\06. 스택\06_1. 스택_ArrayStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_1. 스택_ArrayStack_main.cpp">
+      <Filter>소스 파일\06. 스택\06_1. 스택_ArrayStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_2. 스택_StudArrayStack_전역변수.cpp">
+      <Filter>소스 파일\06. 스택\06_2. 스택_StudArrayStack_전역변수</Filter>
+    </ClCompile>
+    <ClCompile Include="06_2. 스택_StudArrayStack_전역변수_main.cpp">
+      <Filter>소스 파일\06. 스택\06_2. 스택_StudArrayStack_전역변수</Filter>
+    </ClCompile>
+    <ClCompile Include="06_3. 스택_StudArrayStack_구조체.cpp">
+      <Filter>소스 파일\06. 스택\06_3. 스택_StudArrayStack_구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="06_3. 스택_StudArrayStack_구조체_main.cpp">
+      <Filter>소스 파일\06. 스택\06_3. 스택_StudArrayStack_구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="06_4. 스택_LinkedListStack.cpp">
+      <Filter>소스 파일\06. 스택\06_4. 스택_LinkedListStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_4. 스택_LinkedListStack_main.cpp">
+      <Filter>소스 파일\06. 스택\06_4. 스택_LinkedListStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_5. 스택_BracketArrayStack.cpp">
+      <Filter>소스 파일\06. 스택\06_5. 스택_BracketArrayStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_5. 스택_BracketArrayStack_main.cpp">
+      <Filter>소스 파일\06. 스택\06_5. 스택_BracketArrayStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_6. 스택_BNArrayStack.cpp">
+      <Filter>소스 파일\06. 스택\06_6. 스택_BNArrayStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_6. 스택_BNArrayStack_main.cpp">
+      <Filter>소스 파일\06. 스택\06_6. 스택_BNArrayStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_7. 스택_MazeArrayStack.cpp">
+      <Filter>소스 파일\06. 스택\06_7. 스택_MazeArrayStack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_7. 스택_MazeArrayStack_main.cpp">
+      <Filter>소스 파일\06. 스택\06_7. 스택_MazeArrayStack</Filter>
+    </ClCompile>
+    <ClCompile Include="07_1. 큐_CircularQueue.cpp">
+      <Filter>소스 파일\07. 큐\07_1. 큐_CircularQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="07_1. 큐_CircularQueue_main.cpp">
+      <Filter>소스 파일\07. 큐\07_1. 큐_CircularQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="07_2. 큐_ListQueue.cpp">
+      <Filter>소스 파일\07. 큐\07_2. 큐_ListQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="07_2. 큐_ListQueue_main.cpp">
+      <Filter>소스 파일\07. 큐\07_2. 큐_ListQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="07_3. 큐_BankQueue.cpp">
+      <Filter>소스 파일\07. 큐\07_3. 큐_BankQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="07_3. 큐_BankQueue_main.cpp">
+      <Filter>소스 파일\07. 큐\07_3. 큐_BankQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="08_1. 트리, 트리순회.cpp">
+      <Filter>소스 파일\08. 트리, 트리순회\08_1. 트리, 트리순회</Filter>
+    </ClCompile>
+    <ClCompile Include="08_2. 트리, 트리순회_이진트리탐색(전위순회)_main.cpp">
+      <Filter>소스 파일\08. 트리, 트리순회\08_2. 트리, 트리순회_이진트리탐색%28전위순회%29</Filter>
+    </ClCompile>
+    <ClCompile Include="08_2. 트리, 트리순회_이진트리탐색(전위순회)_stack.cpp">
+      <Filter>소스 파일\08. 트리, 트리순회\08_2. 트리, 트리순회_이진트리탐색%28전위순회%29</Filter>
+    </ClCompile>
+    <ClCompile Include="08_3. 트리, 트리순회_이진트리탐색(중위순회)_main.cpp">
+      <Filter>소스 파일\08. 트리, 트리순회\08_3. 트리, 트리순회_이진트리탐색%28중위순회%29</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="04_2. 리스트(연결리스트기반)_Point.h">
+      <Filter>소스 파일\04. 리스트%28연결리스트기반%29\04_2. 리스트%28연결리스트기반%29_Point_LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="04_2. 리스트(연결리스트기반)_Point_LinkedList.h">
+      <Filter>소스 파일\04. 리스트%28연결리스트기반%29\04_2. 리스트%28연결리스트기반%29_Point_LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="04_3. 리스트(연결리스트기반)_LinkedList.h">
+      <Filter>소스 파일\04. 리스트%28연결리스트기반%29\04_3. 리스트%28연결리스트기반%29_LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="05_1. 연결리스트(원형, 이중)_LinkedList.h">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_1. 연결리스트%28원형, 이중%29_LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="05_2. 연결리스트(원형, 이중)_DLinkedList.h">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_2. 연결리스트%28원형, 이중%29_DLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="05_3. 연결리스트(원형, 이중)_PolyLinkedList.h">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_3. 연결리스트%28원형, 이중%29_PolyLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="05_4. 연결리스트(원형, 이중)_ADTLinkedList.h">
+      <Filter>소스 파일\05. 연결리스트%28원형, 이중%29\05_4. 연결리스트%28원형, 이중%29_ADTLinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="06_1. 스택_ArrayStack.h">
+      <Filter>소스 파일\06. 스택\06_1. 스택_ArrayStack</Filter>
+    </ClInclude>
+    <ClInclude Include="06_2. 스택_StudArrayStack_전역변수.h">
+      <Filter>소스 파일\06. 스택\06_2. 스택_StudArrayStack_전역변수</Filter>
+    </ClInclude>
+    <ClInclude Include="06_3. 스택_StudArrayStack_구조체.h">
+      <Filter>소스 파일\06. 스택\06_3. 스택_StudArrayStack_구조체</Filter>
+    </ClInclude>
+    <ClInclude Include="06_4. 스택_LinkedListStack.h">
+      <Filter>소스 파일\06. 스택\06_4. 스택_LinkedListStack</Filter>
+    </ClInclude>
+    <ClInclude Include="06_5. 스택_BracketArrayStack.h">
+      <Filter>소스 파일\06. 스택\06_5. 스택_BracketArrayStack</Filter>
+    </ClInclude>
+    <ClInclude Include="06_6. 스택_BNArrayStack.h">
+      <Filter>소스 파일\06. 스택\06_6. 스택_BNArrayStack</Filter>
+    </ClInclude>
+    <ClInclude Include="06_7. 스택_MazeArrayStack.h">
+      <Filter>소스 파일\06. 스택\06_7. 스택_MazeArrayStack</Filter>
+    </ClInclude>
+    <ClInclude Include="07_1. 큐_CircularQueue.h">
+      <Filter>소스 파일\07. 큐\07_1. 큐_CircularQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="07_2. 큐_ListQueue.h">
+      <Filter>소스 파일\07. 큐\07_2. 큐_ListQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="07_3. 큐_BankQueue.h">
+      <Filter>소스 파일\07. 큐\07_3. 큐_BankQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="08_2. 트리, 트리순회_이진트리탐색(전위순회)_node.h">
+      <Filter>소스 파일\08. 트리, 트리순회\08_2. 트리, 트리순회_이진트리탐색%28전위순회%29</Filter>
+    </ClInclude>
+    <ClInclude Include="08_3. 트리, 트리순회_이진트리탐색(중위순회)_ node.h">
+      <Filter>소스 파일\08. 트리, 트리순회\08_3. 트리, 트리순회_이진트리탐색%28중위순회%29</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
